@@ -1,0 +1,827 @@
+"\xa8br\x8bjr\""--16
+dq	14	15
+es	2	5
+es	8	11
+"nq"--4
+"zjrfcpbktjmrzgsz\xcaqsc\x03n\"huqab"--37
+dq	30	31
+es	18	21
+es	25	28
+"daz\\zyyxddpwk"--16
+bs	5	6
+"draes\xa2n\\g\x27ek\"lj\"\\viqych"--35
+bs	12	13
+bs	27	28
+dq	21	22
+dq	25	26
+es	7	10
+es	15	18
+"nnx\\krnrfomdnt\x2flbl\xd2xpo\"cp\"k"--38
+bs	5	6
+dq	31	32
+dq	35	36
+es	17	20
+es	24	27
+"kwdaapalq"--11
+"u\"ptk"--8
+dq	3	4
+"ckhorczuiudfjmmcc\\u\"wozqxibsfjma"--36
+bs	19	20
+dq	22	23
+"ydctdrxat\"pd\"lwi\"bjesevfw\xe8"--34
+dq	11	12
+dq	15	16
+dq	20	21
+es	30	33
+"v\"\xa8rrzep\"\"r"--19
+dq	3	4
+dq	14	15
+dq	16	17
+es	5	8
+"nbydghkfvmq\\\xe0\"lfsrsvlsj\"i\x61liif"--41
+bs	13	14
+dq	19	20
+dq	30	31
+es	15	18
+es	33	36
+"jsas\"u"--9
+dq	6	7
+"odipikxlo"--11
+"\"rnubsgwltqkbsu\"pcpcs"--25
+dq	2	3
+dq	18	19
+"eitk\\f\\mhcqqoym\\ji"--23
+bs	6	7
+bs	9	10
+bs	19	20
+"vnedc"--7
+"\"lhcaurdqzyjyu"--17
+dq	2	3
+"haxzsa\"zcn\"y\"foclgtjfcnv\"m\x68krc"--39
+dq	8	9
+dq	13	14
+dq	16	17
+dq	29	30
+es	32	35
+"\"eoeggg\"tmiydvcay\"vfavc"--28
+dq	2	3
+dq	10	11
+dq	21	22
+"snqvyqoncwxcvwbdktoywch"--25
+"rnfgjsyr\xd5wacy"--18
+es	10	13
+"ik\"hebrpvsts"--15
+dq	4	5
+"txw"--5
+"\x15pxtdkogd\"urbm\"gevhh\"nxr\x3erxtk"--40
+dq	14	15
+dq	20	21
+dq	27	28
+es	2	5
+es	32	35
+"cetqtcy"--9
+"inleep\\mgl"--13
+bs	8	9
+"uflwbxvww\x2cxzezqnaply\"yh\"qlllzk"--37
+dq	25	26
+dq	29	30
+es	11	14
+"eepak\"xqtedzt"--16
+dq	7	8
+"na\x61qzfieafvyrsnwkssznohjmc"--31
+es	4	7
+"yceaonylz\xc1\\jrlbbkzwsidfi"--30
+bs	15	16
+es	11	14
+"ybqafngkcqpbp"--15
+"\xaft"--7
+es	2	5
+"yidjpaobqydso"--15
+"ju\\ldxig\\lrdrhjcmm\x77rc"--28
+bs	4	5
+bs	11	12
+es	22	25
+"tylacqeslnwj\x48ds\"tjxa"--26
+dq	20	21
+es	14	17
+"efbfm"--7
+"\\fxkgoprgdcjgyajykg\\dtbrz"--29
+bs	2	3
+bs	22	23
+"eujvva"--8
+"h\x7acwfpikme\\vwthyvrqdnx\""--30
+bs	15	16
+dq	28	29
+es	3	6
+"rbpbrxm\\\"\"\"voxx"--21
+bs	9	10
+dq	11	12
+dq	13	14
+dq	15	16
+"ykiw\"tkb\\lforu\"rsf\\tf\"x\"rqti"--36
+bs	11	12
+bs	23	24
+dq	6	7
+dq	18	19
+dq	27	28
+dq	30	31
+"e\\wh\x77aqeugiq\\ihhfqfuaij"--30
+bs	3	4
+bs	18	19
+es	7	10
+"g\"t\\o"--9
+bs	6	7
+dq	3	4
+"nxzo\"hf\\xp"--14
+bs	10	11
+dq	6	7
+"dxiaqfo\xea"--13
+es	9	12
+"kali\\zczhiqkqzybjj\"fgdjnik"--30
+bs	6	7
+dq	21	22
+"zdkgrqmdv"--11
+"bimxim\xb6lrwsaj\"ui\"a"--25
+dq	18	19
+dq	22	23
+es	8	11
+"\"rrznitibgx\\olpsjmjqzctxaubdifsq"--36
+bs	14	15
+dq	2	3
+"zb\"khzixaacmhuzmlymoformipdzml"--33
+dq	4	5
+"qfwi"--6
+"hjwsxfpphttjy\"\"zixais\xbblgnqfto"--36
+dq	15	16
+dq	17	18
+es	25	28
+"puj\\qmyu\"nqgaqfthbwjokbmrpbhpi"--34
+bs	5	6
+dq	11	12
+"cyxdpkh\\\""--13
+bs	9	10
+dq	11	12
+"q"--3
+"m"--3
+"tbxdzzllarlo"--14
+"gbtys"--7
+"gytilk\\vlqxvcuutjunrqc"--25
+bs	8	9
+"uugkvcuzan\\eyhb"--18
+bs	12	13
+"yaxr\"genlbgw\"\\uc"--21
+bs	17	18
+dq	6	7
+dq	15	16
+"nrgecjeip\\sjdvgqaqxwsqactopu"--31
+bs	11	12
+"pu\"r\"txpyrkfny\\zmwfneyvwmnkkdipv"--37
+bs	18	19
+dq	4	5
+dq	7	8
+"jm\xa3bhwvq"--13
+es	4	7
+"qxojmnml\"w\x9airr"--20
+dq	10	11
+es	13	16
+"xbzsuihs\x4dcedy\xaclrhgii\\\""--32
+bs	28	29
+dq	30	31
+es	10	13
+es	18	21
+"drgjirusrekrwmvxllwdm"--23
+"\x28hfxnfpycmpnkku\"csuf\xaarxlqyg\"x"--39
+dq	20	21
+dq	36	37
+es	2	5
+es	26	29
+"\"zvz\\rmg\"\\sxxoifffyqfyn\"iq\"ps"--37
+bs	7	8
+bs	14	15
+dq	2	3
+dq	12	13
+dq	29	30
+dq	33	34
+"\"z"--5
+dq	2	3
+"zbwkmk\"sgzos\x93gtc\""--24
+dq	8	9
+dq	22	23
+es	15	18
+"bvm\x28aa\\\\\"pywuhaniox\\z\\hbp\xd7mold"--43
+bs	11	12
+bs	13	14
+bs	27	28
+bs	30	31
+dq	15	16
+es	5	8
+es	35	38
+"aszgvsyna"--11
+"qf\"vdwuss"--12
+dq	4	5
+"lnohni\"qwiacjsjegstlbfq\\kyjhyd"--34
+bs	26	27
+dq	8	9
+"c\\naawulxlqplnacvytspry\xf5ytxxqq"--36
+bs	3	4
+es	26	29
+"razwqmsqgbaaxcd\\f"--20
+bs	17	18
+"radggyrjrg\"zx"--16
+dq	12	13
+"\"pu\x11t\\ajcjuieinlkvya"--27
+bs	11	12
+dq	2	3
+es	6	9
+"veggiskh"--10
+"eglfhjxiet\"kouqfskwsy\"hpthsldel"--35
+dq	12	13
+dq	24	25
+"mv\xc1b\"f\\shrssnjwcpmurepdxdlcj"--35
+bs	12	13
+dq	9	10
+es	4	7
+"dlayjd\"suvzotgdtc"--20
+dq	8	9
+"\xa9pvxeopn"--13
+es	2	5
+"lpplsaxy\"oiwaq"--17
+dq	10	11
+"hqwh\\lusv"--12
+bs	6	7
+"hykykwlx\"\xa5atkgh\\d\x63dff"--31
+bs	21	22
+dq	10	11
+es	12	15
+es	24	27
+"vfktanpjy\"xxetc"--18
+dq	11	12
+"dnhwkgjnsmsswfuelvihvjl\"jtf"--30
+dq	25	26
+"x\"dwvzra\"nbbsewftehczgbvfzd\"rau"--36
+dq	3	4
+dq	11	12
+dq	31	32
+"csfi\"mzejnjqkqupwadrgti\"von"--31
+dq	6	7
+dq	26	27
+"xckf\xf7xsm\\pgvlpetjndpyblais\\z"--35
+bs	13	14
+bs	32	33
+es	6	9
+"yecy\x6fuj\x58bwpgeuiw\"mdu"--29
+dq	24	25
+es	6	9
+es	12	15
+"fgb"--5
+"c\\lx\x3efthet\xfdelgvwvpem"--29
+bs	3	4
+es	7	10
+es	16	19
+"kgyrmarvfwjinlowt"--19
+"yzte"--6
+"vc\"z"--7
+dq	4	5
+"sxevqfzmmdwsuu\""--18
+dq	16	17
+"fxbaercmcy\xb6md"--18
+es	12	15
+"f"--3
+"m\x44gqbcppho\\b"--18
+bs	15	16
+es	3	6
+"gtafr\x57m\x11jy\"\"erwmmpiwjkbckuw"--37
+dq	18	19
+dq	20	21
+es	7	10
+es	12	15
+"ufdjt\"kssprzxqixzxmq\x58q"--28
+dq	7	8
+es	23	26
+"yzbyo\"lfdbyaxexyfbnyv\\\xe8xmre"--34
+bs	24	25
+dq	7	8
+es	26	29
+"u\x43ntr\\\\byyfjr\"iveujvnwsqbnpuvrta"--40
+bs	10	11
+bs	12	13
+dq	20	21
+es	3	6
+"us\xf6bai"--11
+es	4	7
+"c\\edh"--8
+bs	3	4
+"tzckolphexfq\\\x23\xfbdqv\\\"m"--32
+bs	14	15
+bs	27	28
+dq	29	30
+es	16	19
+es	20	23
+"yjafhbvhhj\x1b\"bplb"--22
+dq	16	17
+es	12	15
+"\"o"--5
+dq	2	3
+"rubahvmp\""--12
+dq	10	11
+"qmkukrnrmqumh"--15
+"wdpxyvyidhwjf\\nabbijwhr\xc5bksvy\"p"--38
+bs	15	16
+dq	35	36
+es	26	29
+"u\"prlpg\""--12
+dq	3	4
+dq	10	11
+"nsvcquyxbwilsxxemf\xd9leq"--27
+es	20	23
+"y\xcetxuafl"--13
+es	3	6
+"it"--4
+"kwdlysf\\xjpelae"--18
+bs	9	10
+"viwh\x58wpjjlnvryuti\x2chngrx\\nhtkui"--39
+bs	31	32
+es	6	9
+es	22	25
+"vhn\x9ehre\xc3ncsqbozms\"nl"--29
+dq	25	26
+es	5	8
+es	12	15
+"ytc\xa3mgeeogjcqavmmmd"--24
+es	5	8
+"xzlexlitseozoxtpzzutfq"--24
+"cish\x07lmovj"--15
+es	6	9
+"ekbflwqzaiivdr\"pq\\azrfbntqwkn"--33
+bs	20	21
+dq	16	17
+"uc\"xdbegmlmhksofzohavtrnxf"--29
+dq	4	5
+"xfdnrdqdrcjzbe"--16
+"ndg\"ckgrpisib\"rg\"p\\lmpfzlssnvk"--36
+bs	23	24
+dq	5	6
+dq	16	17
+dq	20	21
+"witfjwpbyyzlop"--16
+"zonlww\"emrbcsgdtrg\"rjzy\x64zqntlw"--37
+dq	8	9
+dq	21	22
+es	27	30
+"dvgb\"zn\\vrbzema\"ckmd"--25
+bs	10	11
+dq	6	7
+dq	19	20
+"\\vdlmxhlvldk\"pmzazeip"--25
+bs	2	3
+dq	15	16
+"\"\"r"--7
+dq	2	3
+dq	4	5
+"rsntinv"--9
+"iy"--4
+"lr\x20efh"--11
+es	4	7
+"csgexlb\"zqdavlxxhtdbh\"\"\x0fkpvhiphm"--40
+dq	9	10
+dq	24	25
+dq	26	27
+es	28	31
+"ouwhp\"ogbft"--14
+dq	7	8
+"cm\\ckltng\"dw\x8brf\xf0eppgckd"--33
+bs	4	5
+dq	12	13
+es	16	19
+es	22	25
+"zmnlsgalhpkejsizfsbtnfliu\"nhc"--32
+dq	27	28
+"pnrkaayqvwpdjbhcrbb\"yfeq\"aq"--31
+dq	21	22
+dq	27	28
+"ozh\\hoxow\x2csrtr\\r\""--25
+bs	5	6
+bs	20	21
+dq	23	24
+es	12	15
+"bqxabj\"u\\s"--14
+bs	11	12
+dq	8	9
+"cpsjti\"gy"--12
+dq	8	9
+"aa\"p\\nki\\ajijkqev"--22
+bs	7	8
+bs	12	13
+dq	4	5
+"q\"\"lfdentjgd\\"--18
+bs	16	17
+dq	3	4
+dq	5	6
+"bmokvpoebutfki"--16
+"pielvcbne\xf6efvzxn"--21
+es	11	14
+"kx"--4
+"zlgmqagcrbhrwtwtmmg"--21
+"aiyhmntcqjbpv\xb5hhswxbryoedvos"--33
+es	15	18
+"tdpaxrb"--9
+"fu\"\x7dttkyvhrlwko"--21
+dq	4	5
+es	6	9
+"oirc\\\"cqlnqffjqt\\k"--23
+bs	6	7
+bs	20	21
+dq	8	9
+"edxlia\\tcyby"--15
+bs	8	9
+"jpeybgwfayerfrfbvfog\"ol"--26
+dq	22	23
+"ysr"--5
+"bzwzilgwfugjk"--15
+"tlcc\x75nukvwjgftetjcs\xaecwc"--31
+es	6	9
+es	24	27
+"dsqssa\"vzrf\"sewbp\\ahhlmhbeihlh"--35
+bs	21	22
+dq	8	9
+dq	14	15
+"qtgmjck\"n\"guki\"gmdivwqxismqj"--33
+dq	9	10
+dq	12	13
+dq	18	19
+"\"f"--5
+dq	2	3
+"wuorvlovucngbzdszqpikyk"--25
+"dfrdsacoukmgvhbq\"\"iwto"--26
+dq	18	19
+dq	20	21
+"\"ey\"ch\\wcgioe\\\"ouvligmsw"--31
+bs	10	11
+bs	18	19
+dq	2	3
+dq	6	7
+dq	20	21
+"ciqlszzgs"--11
+"\\tzyrkaoi\"sopjaq"--20
+bs	2	3
+dq	12	13
+"lmtnv"--7
+"ar\"fqoroigiertjjlm\"ymgi\\kkjewsxd"--37
+bs	27	28
+dq	4	5
+dq	21	22
+"wehcimlvudpxtamdn\"rwy"--24
+dq	19	20
+"hr\"zvrwthr\"vruzqfrldn\"b"--28
+dq	4	5
+dq	13	14
+dq	25	26
+"sggekodkiwvym\"mhsco"--22
+dq	15	16
+"ltlkfbrrdvk\\"--15
+bs	13	14
+"uut\"sfjnz\"\\ef"--18
+bs	14	15
+dq	5	6
+dq	12	13
+"hxilg\\"--9
+bs	7	8
+"zsredsiwlzrpedibn"--19
+"vtfi"--6
+"\\h"--5
+bs	2	3
+"qekfrc\xf6wduodbwrguqcng\\n"--29
+bs	26	27
+es	8	11
+"\"lljlfdrxftwidn\\pkv\xd9ij"--29
+bs	18	19
+dq	2	3
+es	23	26
+"mrvgqynpehkliuijlpp"--21
+"gikjph"--8
+"yoxcdrdt\"wbaurnyhoyxoihu"--27
+dq	10	11
+"onmomwuxuammbzxe"--18
+"rnrr\\twviz\x61gqaljr\x0dmtw"--30
+bs	6	7
+es	13	16
+es	23	26
+"r\"vupaoi"--11
+dq	3	4
+"l"--3
+"sei"--5
+"jwxtdtbkd\\kxd"--16
+bs	11	12
+"\x22v\\"--9
+bs	7	8
+es	2	5
+"ahd"--5
+"j\"bjqxs"--10
+dq	3	4
+"\\i\x24gglxub\\nzsajokt"--25
+bs	2	3
+bs	15	16
+es	5	8
+"lviwpu\"uxdlh\\zuy\"xqy\"ytdzlx\"r"--36
+bs	15	16
+dq	8	9
+dq	20	21
+dq	25	26
+dq	33	34
+"kptfmys"--9
+"fwxzikfhczkjwyjszqdbkepaeellc"--31
+"nlqpsvbrbd\\ns"--16
+bs	12	13
+"qryuwkjiodw\"\"vaqyq\"dmyifm"--30
+dq	13	14
+dq	15	16
+dq	22	23
+"tw\x15kdmaudjl\\zorhp\"alwh"--29
+bs	16	17
+dq	23	24
+es	4	7
+"aatrvczesykekkjfyb\"kb"--24
+dq	20	21
+"usqcutbqbxxhucwxo\xc1ltb\"j\"bghjcvws"--39
+dq	26	27
+dq	29	30
+es	19	22
+"ilhsrnzxkz"--12
+"bianqfdfdhvw"--14
+"hqibqs\x7ax\"qoxqoaqtcsz"--26
+dq	13	14
+es	8	11
+"htxtoojbbauztwxuiq\\ngyfy\\obzc"--33
+bs	20	21
+bs	27	28
+"rxn\\moxlj"--12
+bs	5	6
+"mtus\x84erh\"dbe"--18
+dq	13	14
+es	6	9
+"asx\x50huvsitcxadt"--20
+es	5	8
+"\"bugggtnrc\"\"kl\"hmpu\x83hqrvhpo"--36
+dq	2	3
+dq	13	14
+dq	15	16
+dq	19	20
+es	25	28
+"ewisbp\"\"vuzf\\w\x5fvalszdhl"--31
+bs	16	17
+dq	8	9
+dq	10	11
+es	19	22
+"scusplpwxfnxu\x57\"zynpn\x99xerc\\ri"--38
+bs	34	35
+dq	19	20
+es	15	18
+es	26	29
+"m\\kinmkke\x0cl"--17
+bs	3	4
+es	12	15
+"xhuzit\x7fd"--13
+es	8	11
+"kfbo\x04\x50ruqirn"--20
+es	6	9
+es	10	13
+"t\"\"xpbdscmdoug"--18
+dq	3	4
+dq	5	6
+"punvpsgnbgyxe\"sptmpz"--23
+dq	15	16
+"bxukkazijr"--12
+"nxyrcdaoo\"rjkk\"wntehcvcip\"vrd"--34
+dq	11	12
+dq	17	18
+dq	29	30
+"rdpvqskmihqaw"--15
+"p\\gwdhtqnpgthod"--18
+bs	3	4
+"nwnuf\"\"yebycearom\"nqym\"\xd4sii\xccle"--42
+dq	7	8
+dq	9	10
+dq	21	22
+dq	27	28
+es	29	32
+es	36	39
+"alda\"ptspo\"wkkv\"zoi\"hkb\"vnntyd"--37
+dq	6	7
+dq	13	14
+dq	19	20
+dq	24	25
+dq	29	30
+"ixpgpfzbqv"--12
+"znui\"\\fzn\x03qozabh\"rva\"pv\x67"--36
+bs	8	9
+dq	6	7
+dq	23	24
+dq	28	29
+es	13	16
+es	32	35
+"e\"zswmwuk"--12
+dq	3	4
+"hcccygwfa"--11
+"ngmace\\rtyllolr\"\x68bw"--26
+bs	8	9
+dq	18	19
+es	20	23
+"\\c\"jyufbry\"ryo\"xpo\x26ecninfeckh\\s"--41
+bs	2	3
+bs	38	39
+dq	5	6
+dq	14	15
+dq	19	20
+es	24	27
+"hdnpngtuc\"dzbvvosn\x31fwtpzbrt"--33
+dq	11	12
+es	21	24
+"hesbpd\xd4"--12
+es	8	11
+"dsdbstuzrdfmrnyntufs\"dmv"--27
+dq	22	23
+"d\xeeibcwhcvkt"--16
+es	3	6
+"fvzwrsfjdqdmy\"\"v"--20
+dq	15	16
+dq	17	18
+"ns\"dqafz\\lkyoflnazv\"mn\x37\"o\"yj\"e"--41
+bs	11	12
+dq	4	5
+dq	23	24
+dq	31	32
+dq	34	35
+dq	38	39
+es	27	30
+"dypilgbwzccayxa\"bnmuernx"--27
+dq	17	18
+"q\xa9ztqrhreb\"\"kxfeyodqb"--28
+dq	15	16
+dq	17	18
+es	3	6
+"iz\xa5qjxqulaawuwz\"rqmpcj\\yel"--33
+bs	28	29
+dq	20	21
+es	4	7
+"z\"\\pq\"\"y\x67zpjtn"--23
+bs	5	6
+dq	3	4
+dq	9	10
+dq	11	12
+es	14	17
+"ifxqvivp\"kiiftdoe"--20
+dq	10	11
+"jxzebj\"\x35\"qr\"ecglcutuoyywqumcs\"kk"--41
+dq	8	9
+dq	14	15
+dq	18	19
+dq	37	38
+es	10	13
+"q"--3
+"yob\x85qmpuwexptczbkrl"--24
+es	5	8
+"cjiavv\"uudpozvibyycnmxhxpxmpjoz"--34
+dq	8	9
+"xro\\uiqyrcid"--15
+bs	5	6
+"nod\\k"--8
+bs	5	6
+"d\"neiec"--10
+dq	3	4
+"tqyrqvwyvmz\\pzgzzcqsqsrgbqbtapoz"--35
+bs	13	14
+"r\"xvocpeuxfxslgueb\x05kzyyie\"aoec"--37
+dq	3	4
+dq	31	32
+es	21	24
+"\"du\\uirlhcbgv\\cjqhfreqnvn"--30
+bs	6	7
+bs	17	18
+dq	2	3
+"zp\x04\x15\"pbjwhrjtmiba"--26
+dq	12	13
+es	4	7
+es	8	11
+"\\cv\""--8
+bs	2	3
+dq	6	7
+"k\"rwnb\\hiu\"rqd\"rc\\nyakrhly"--33
+bs	9	10
+bs	23	24
+dq	3	4
+dq	14	15
+dq	19	20
+"klrmafjzandiddodgz"--20
+"xipzhqzhvlpykzcuppx"--21
+"zdvrvn\xd0mtfvpylbn\\\\sxcznrzugwznl"--38
+bs	21	22
+bs	23	24
+es	8	11
+"ody\\pvm\"kpjiudzhxazirgxzvumeat\"o"--37
+bs	5	6
+dq	10	11
+dq	34	35
+"kllvhdp\"prjikzrrc\"adgpegc\\\"gk"--35
+bs	29	30
+dq	9	10
+dq	20	21
+dq	31	32
+"sqtpug\xbcaauxaamw"--20
+es	8	11
+"wegxxrrxdvpivrqievfeokmnojsk"--30
+"\\bo"--6
+bs	2	3
+"gijhz"--7
+"ylowluvabwrigssdgtxdwsiorxev\xdd"--34
+es	30	33
+"\""--4
+dq	2	3
+"ghnsrnsqtxpygikahkrl"--22
+"\"rcfqkbjf\"sgxg\"vnd\\rotn"--29
+bs	23	24
+dq	2	3
+dq	12	13
+dq	18	19
+"ap\"smgsuexjrbuqs\"mpbstogj\"x"--32
+dq	4	5
+dq	19	20
+dq	29	30
+"koaunz\\sgt\"opv"--18
+bs	8	9
+dq	13	14
+"yialiuzwix"--12
+"yp\"ndxgwzml\"bt"--18
+dq	4	5
+dq	14	15
+"lpcjxmggfsy\\szbxccarjkqzasqkb\xcfd\x0c"--41
+bs	13	14
+es	32	35
+es	37	40
+"x"--3
+"mgakc"--7
+"vjieunoh\x73fjwx"--18
+es	10	13
+"erbvv\"qulsd"--14
+dq	7	8
+"mimycrbfhqkarmz"--17
+"tihfbgcszuej\"c\xfbvoqskkhbgpaddioo"--37
+dq	14	15
+es	17	20
+"mziavkwrmekriqghw"--19
+"izk\\tnjd\\ed\\emokvjoc"--25
+bs	5	6
+bs	11	12
+bs	15	16
+"c\"nhbqzndro\\g"--17
+bs	14	15
+dq	3	4
+"usfngdo"--9
+"aypljdftvptt"--14
+"ym\"afvq\xbcc"--15
+dq	4	5
+es	10	13
+"zabi\"wjpvugwhl"--17
+dq	6	7
+"ebvptcjqjhc\"n\"p\"dxrphegr\\"--31
+bs	29	30
+dq	13	14
+dq	16	17
+dq	19	20
+"mzlqqxokhye\xd9\\rffhnzs"--26
+bs	17	18
+es	13	16
+"hnipqknwpsjakanuewe"--21
+"rqgbfcjdrmiz\"h"--17
+dq	14	15
+"kzzp\\z\\txmkwaouxictybwx"--27
+bs	6	7
+bs	9	10
+"yzmspjkqrteiydswlvb"--21
+"gjpxklgpzv\"txri\\hotpuiukzzzd"--32
+bs	18	19
+dq	12	13
+"p\"rxergtbsxmjmkeeqwvoagnki\""--31
+dq	3	4
+dq	29	30
+"santipvuiq"--12
+"\"ihjqlhtwbuy\"hdkiv\"mtiqacnf\\"--34
+bs	32	33
+dq	2	3
+dq	15	16
+dq	22	23
+"oliaggtqyyx"--13
+"fwwnpmbb"--10
+"yrtdrieazfxyyneo"--18
+"nywbv\\"--9
+bs	7	8
+"twc\\ehfqxhgomgrgwpxyzmnkioj"--30
+bs	5	6
+"qludrkkvljljd\\xvdeum\x4e"--27
+bs	15	16
+es	23	26
+count: 300
+total: 6489
+ n_bs: 135
+ n_dq: 261
+ n_es: 125
+ calc: 	5118
